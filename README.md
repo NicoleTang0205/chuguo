@@ -8,8 +8,6 @@
 
 [下载IOS AnyConnect 客户端，请打开应用市场直接搜索AnyConnect即可以直接安装]
 
-[其它全平台 AnyConnect 客户端下载](https://cnlic.com/share/client.html) (包括Windows,Android,Mac OS X,Kindle,Android,Linux)
-
 #官方Chrome浏览器下载
 [下载最新官方Chrome 56版本浏览器](http://sw.bos.baidu.com/sw-search-sp/software/1c5131aea1842/ChromeStandalone_56.0.2924.87_Setup.exe)
 
