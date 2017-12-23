@@ -1,6 +1,6 @@
 # 出锅(chuguo)
 
-[单击下载出锅最新版1.6.6版插件](http://7xrvud.dl1.z0.glb.clouddn.com/chuguo_v1.6.6.crx) (或发邮件至: chuguokefu@gmail.com 获取)
+[单击下载出锅最新版1.6.7版插件](http://7xrvud.dl1.z0.glb.clouddn.com/chuguo_v1.6.7.crx) (或发邮件至: chuguokefu@gmail.com 获取)
 
 #AnyConnect 客户端
 
