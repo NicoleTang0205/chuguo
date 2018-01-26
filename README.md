@@ -1,6 +1,6 @@
 # Fastwhale
 
-[单击下载Fastwhale最新版1.7.0版插件](http://7xrvud.dl1.z0.glb.clouddn.com/fastwhale_v1.7.0.crx) (或发邮件至: chuguokefu@gmail.com 获取)
+[单击下载Fastwhale最新版1.7.1版插件](http://7xrvud.dl1.z0.glb.clouddn.com/fastwhale_v1.7.1.crx) (或发邮件至: chuguokefu@gmail.com 获取)
 
 #AnyConnect 客户端
 
